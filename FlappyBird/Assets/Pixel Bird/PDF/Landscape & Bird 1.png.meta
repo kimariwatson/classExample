@@ -1,0 +1,1313 @@
+fileFormatVersion: 2
+guid: bfb8dc6336a09d042952e13188459993
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6445614630928089829
+    second: Landscape & Bird 1_0
+  - first:
+      213: -1164069294477722369
+    second: Landscape & Bird 1_1
+  - first:
+      213: 3622321443232071012
+    second: Landscape & Bird 1_2
+  - first:
+      213: -393037687785353814
+    second: Landscape & Bird 1_3
+  - first:
+      213: 4547709418475633678
+    second: Landscape & Bird 1_4
+  - first:
+      213: -5337367094857804487
+    second: Landscape & Bird 1_5
+  - first:
+      213: -4897685945927139930
+    second: Landscape & Bird 1_6
+  - first:
+      213: 6754617812871031520
+    second: Landscape & Bird 1_7
+  - first:
+      213: -5731887657548286906
+    second: Landscape & Bird 1_8
+  - first:
+      213: 4072427780917812410
+    second: Landscape & Bird 1_9
+  - first:
+      213: 5633058077613128135
+    second: Landscape & Bird 1_10
+  - first:
+      213: -2658591168989882979
+    second: Landscape & Bird 1_11
+  - first:
+      213: 3369036220574387435
+    second: Landscape & Bird 1_12
+  - first:
+      213: -1857967528130465458
+    second: Landscape & Bird 1_13
+  - first:
+      213: -8553819783415110895
+    second: Landscape & Bird 1_14
+  - first:
+      213: 4947867315793956760
+    second: Landscape & Bird 1_15
+  - first:
+      213: -831264448476214675
+    second: Landscape & Bird 1_16
+  - first:
+      213: -7163140638786578521
+    second: Landscape & Bird 1_17
+  - first:
+      213: -5016479743798792735
+    second: Landscape & Bird 1_18
+  - first:
+      213: 2111629226665030185
+    second: Landscape & Bird 1_19
+  - first:
+      213: 1250372007533043724
+    second: Landscape & Bird 1_20
+  - first:
+      213: -5018099884038564456
+    second: Landscape & Bird 1_21
+  - first:
+      213: 6919138348678382444
+    second: Landscape & Bird 1_22
+  - first:
+      213: 6055611208027165809
+    second: Landscape & Bird 1_23
+  - first:
+      213: 8126890268216389035
+    second: Landscape & Bird 1_24
+  - first:
+      213: 5026946325526168685
+    second: Landscape & Bird 1_25
+  - first:
+      213: 3265236228907105235
+    second: Landscape & Bird 1_26
+  - first:
+      213: -7282824842969047653
+    second: Landscape & Bird 1_27
+  - first:
+      213: -7520516485005781720
+    second: Landscape & Bird 1_28
+  - first:
+      213: -7154205085209131602
+    second: Landscape & Bird 1_29
+  - first:
+      213: -1541025578847625621
+    second: Landscape & Bird 1_30
+  - first:
+      213: -4220276110517698355
+    second: Landscape & Bird 1_31
+  - first:
+      213: 7526569133963423799
+    second: Landscape & Bird 1_32
+  - first:
+      213: 3144447119487121879
+    second: Landscape & Bird 1_33
+  - first:
+      213: -773705881133526833
+    second: Landscape & Bird 1_34
+  - first:
+      213: 946746970699285014
+    second: Landscape & Bird 1_35
+  - first:
+      213: 8945447572137779031
+    second: Landscape & Bird 1_36
+  - first:
+      213: 29870574531909450
+    second: Landscape & Bird 1_37
+  - first:
+      213: -8525257833657650144
+    second: Landscape & Bird 1_38
+  - first:
+      213: 7810337393348036867
+    second: Landscape & Bird 1_39
+  - first:
+      213: -7503588488430404225
+    second: Landscape & Bird 1_40
+  - first:
+      213: 4876497387982336159
+    second: Landscape & Bird 1_41
+  - first:
+      213: 6936074875983742494
+    second: Landscape & Bird 1_42
+  - first:
+      213: 8551536474309091271
+    second: Landscape & Bird 1_43
+  - first:
+      213: 7171597477392104063
+    second: Landscape & Bird 1_44
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Landscape & Bird 1_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 137
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e287834b5c637950800000000000000
+      internalID: 6445614630928089829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landscape & Bird 1_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 138
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc37b8e42568dfe0800000000000000
+      internalID: -1164069294477722369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landscape & Bird 1_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 138
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46db0262922154230800000000000000
+      internalID: 3622321443232071012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landscape & Bird 1_3
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 128
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad863c2e46ab8af0800000000000000
+      internalID: -393037687785353814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landscape & Bird 1_4
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 127
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c30fd0f95bc1f30800000000000000
+      internalID: 4547709418475633678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landscape & Bird 1_5
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 127
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9355423e7ecdde5b0800000000000000
+      internalID: -5337367094857804487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landscape & Bird 1_6
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 127
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6adf69bc49ce70cb0800000000000000
+      internalID: -4897685945927139930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landscape & Bird 1_7
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 114
+        width: 101
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea24b10d193dbd50800000000000000
+      internalID: 6754617812871031520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landscape & Bird 1_8
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 101
+        width: 96
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64473675b8e3470b0800000000000000
+      internalID: -5731887657548286906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landscape & Bird 1_9
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 111
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abcd9077d7b248830800000000000000
+      internalID: 4072427780917812410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landscape & Bird 1_10
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 111
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c97643f974ac2e40800000000000000
+      internalID: 5633058077613128135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landscape & Bird 1_11
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 111
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d951e59ea69ca1bd0800000000000000
+      internalID: -2658591168989882979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landscape & Bird 1_12
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 100
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: becc2cab79831ce20800000000000000
+      internalID: 3369036220574387435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landscape & Bird 1_13
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 109
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41b299806c2736e0800000000000000
+      internalID: -1857967528130465458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landscape & Bird 1_14
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 101
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11365d02a3aba4980800000000000000
+      internalID: -8553819783415110895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landscape & Bird 1_15
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 109
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f0aa9db1b5aa440800000000000000
+      internalID: 4947867315793956760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landscape & Bird 1_16
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 100
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a0a2a6361c674f0800000000000000
+      internalID: -831264448476214675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landscape & Bird 1_17
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 109
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a716fc7a89679c90800000000000000
+      internalID: -7163140638786578521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landscape & Bird 1_18
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 101
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed2eef5042e16ab0800000000000000
+      internalID: -5016479743798792735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landscape & Bird 1_19
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 109
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 922b3b008930e4d10800000000000000
+      internalID: 2111629226665030185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landscape & Bird 1_20
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 88
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00691257b63a5110800000000000000
+      internalID: 1250372007533043724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landscape & Bird 1_21
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 87
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895d3741eb02c5ab0800000000000000
+      internalID: -5018099884038564456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landscape & Bird 1_22
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 87
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6302c04ba7b50060800000000000000
+      internalID: 6919138348678382444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landscape & Bird 1_23
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 69
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17455584f4ad90450800000000000000
+      internalID: 6055611208027165809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landscape & Bird 1_24
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 44
+        width: 117
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baded9d04a388c070800000000000000
+      internalID: 8126890268216389035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landscape & Bird 1_25
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 61
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6441f59c0d43c540800000000000000
+      internalID: 5026946325526168685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landscape & Bird 1_26
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 61
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db7ebbdc03705d20800000000000000
+      internalID: 3265236228907105235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landscape & Bird 1_27
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 60
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d907134653eea90800000000000000
+      internalID: -7282824842969047653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landscape & Bird 1_28
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 63
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 825d2cf2a12c1a790800000000000000
+      internalID: -7520516485005781720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landscape & Bird 1_29
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 62
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea501dd216827bc90800000000000000
+      internalID: -7154205085209131602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landscape & Bird 1_30
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 64
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e1ff6966d2d9ae0800000000000000
+      internalID: -1541025578847625621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landscape & Bird 1_31
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 37
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc0868acc319e65c0800000000000000
+      internalID: -4220276110517698355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landscape & Bird 1_32
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 37
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7303f47ffbeb37860800000000000000
+      internalID: 7526569133963423799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landscape & Bird 1_33
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 36
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9b704cef153ab20800000000000000
+      internalID: 3144447119487121879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landscape & Bird 1_34
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 35
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc0d762b99e3345f0800000000000000
+      internalID: -773705881133526833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landscape & Bird 1_35
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 43
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61245b09a55832d00800000000000000
+      internalID: 946746970699285014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landscape & Bird 1_36
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 41
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f172efb2d942c70800000000000000
+      internalID: 8945447572137779031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landscape & Bird 1_37
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 50
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a471638112f1a6000800000000000000
+      internalID: 29870574531909450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landscape & Bird 1_38
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 34
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02438364b2330b980800000000000000
+      internalID: -8525257833657650144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landscape & Bird 1_39
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 43
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309c5727a74e36c60800000000000000
+      internalID: 7810337393348036867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landscape & Bird 1_40
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 36
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d35668606edd790800000000000000
+      internalID: -7503588488430404225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landscape & Bird 1_41
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 45
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90bece998ccca340800000000000000
+      internalID: 4876497387982336159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landscape & Bird 1_42
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 11
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e16c58ec953e14060800000000000000
+      internalID: 6936074875983742494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landscape & Bird 1_43
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 11
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf5dfa8d192da670800000000000000
+      internalID: 8551536474309091271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landscape & Bird 1_44
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 11
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a3b00b8e1a68360800000000000000
+      internalID: 7171597477392104063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Landscape & Bird 1_0: 6445614630928089829
+      Landscape & Bird 1_1: -1164069294477722369
+      Landscape & Bird 1_10: 5633058077613128135
+      Landscape & Bird 1_11: -2658591168989882979
+      Landscape & Bird 1_12: 3369036220574387435
+      Landscape & Bird 1_13: -1857967528130465458
+      Landscape & Bird 1_14: -8553819783415110895
+      Landscape & Bird 1_15: 4947867315793956760
+      Landscape & Bird 1_16: -831264448476214675
+      Landscape & Bird 1_17: -7163140638786578521
+      Landscape & Bird 1_18: -5016479743798792735
+      Landscape & Bird 1_19: 2111629226665030185
+      Landscape & Bird 1_2: 3622321443232071012
+      Landscape & Bird 1_20: 1250372007533043724
+      Landscape & Bird 1_21: -5018099884038564456
+      Landscape & Bird 1_22: 6919138348678382444
+      Landscape & Bird 1_23: 6055611208027165809
+      Landscape & Bird 1_24: 8126890268216389035
+      Landscape & Bird 1_25: 5026946325526168685
+      Landscape & Bird 1_26: 3265236228907105235
+      Landscape & Bird 1_27: -7282824842969047653
+      Landscape & Bird 1_28: -7520516485005781720
+      Landscape & Bird 1_29: -7154205085209131602
+      Landscape & Bird 1_3: -393037687785353814
+      Landscape & Bird 1_30: -1541025578847625621
+      Landscape & Bird 1_31: -4220276110517698355
+      Landscape & Bird 1_32: 7526569133963423799
+      Landscape & Bird 1_33: 3144447119487121879
+      Landscape & Bird 1_34: -773705881133526833
+      Landscape & Bird 1_35: 946746970699285014
+      Landscape & Bird 1_36: 8945447572137779031
+      Landscape & Bird 1_37: 29870574531909450
+      Landscape & Bird 1_38: -8525257833657650144
+      Landscape & Bird 1_39: 7810337393348036867
+      Landscape & Bird 1_4: 4547709418475633678
+      Landscape & Bird 1_40: -7503588488430404225
+      Landscape & Bird 1_41: 4876497387982336159
+      Landscape & Bird 1_42: 6936074875983742494
+      Landscape & Bird 1_43: 8551536474309091271
+      Landscape & Bird 1_44: 7171597477392104063
+      Landscape & Bird 1_5: -5337367094857804487
+      Landscape & Bird 1_6: -4897685945927139930
+      Landscape & Bird 1_7: 6754617812871031520
+      Landscape & Bird 1_8: -5731887657548286906
+      Landscape & Bird 1_9: 4072427780917812410
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

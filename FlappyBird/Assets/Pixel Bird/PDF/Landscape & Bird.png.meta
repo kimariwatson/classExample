@@ -1,0 +1,301 @@
+fileFormatVersion: 2
+guid: 631fe794bacb90c44b5c3abbe55d2e65
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4984357294800853458
+    second: Landscape & Bird_0
+  - first:
+      213: -1801944192156034649
+    second: Green Bird 2
+  - first:
+      213: 5351129133714144496
+    second: Green Bird 3
+  - first:
+      213: 7350139967947763421
+    second: Yellow Block 1
+  - first:
+      213: -4317057711645158179
+    second: Yellow Block 2
+  - first:
+      213: 2206967226261592735
+    second: Yellow Block 3
+  - first:
+      213: -4430991114917270299
+    second: Purple Block 1
+  - first:
+      213: 4807382207149404141
+    second: Purple Block 2
+  - first:
+      213: -4787245764681350509
+    second: Purple Block 3
+  - first:
+      213: -6366163308012396358
+    second: Green Block 2
+  - first:
+      213: -5842763756266150967
+    second: Green Block 3
+  - first:
+      213: 6033060599932584654
+    second: Light Green Block 1
+  - first:
+      213: 8760081993531306818
+    second: Light Green Block 2
+  - first:
+      213: 5578657969217151263
+    second: Light Green Block 3
+  - first:
+      213: -6903294546564745335
+    second: Green Block 1
+  - first:
+      213: 5717513968645625993
+    second: LIght Yellow Block 1
+  - first:
+      213: 7787249512692168435
+    second: Light Yellow Block 2
+  - first:
+      213: -7079851436337936479
+    second: Light Yellow Block 3
+  - first:
+      213: 7848870778330240297
+    second: Blue Block 1
+  - first:
+      213: 4511481943082344417
+    second: Blue Block 2
+  - first:
+      213: 5949874345668727511
+    second: Blue Block 3
+  - first:
+      213: -608555042836926140
+    second: Jade Block 2
+  - first:
+      213: 9136858746936460912
+    second: Jade Block 3
+  - first:
+      213: 6775846556269520453
+    second: Jade Block 1
+  - first:
+      213: -3294127635388368215
+    second: Grey Block 2
+  - first:
+      213: 6308795050197838935
+    second: Grey Block 3
+  - first:
+      213: 5321995728253999204
+    second: Grey Block 1
+  - first:
+      213: -2580965067572108553
+    second: Red Bird 1
+  - first:
+      213: -3525005579872943182
+    second: Red Bird 2
+  - first:
+      213: -3868721385270689907
+    second: Red Bird 3
+  - first:
+      213: 2788931780275225658
+    second: Purple Bird 1
+  - first:
+      213: 4616107921319900788
+    second: Purple Bird 2
+  - first:
+      213: -6143739793275153340
+    second: Purple Bird 3
+  - first:
+      213: -5599507966400948728
+    second: Blue Bird 1
+  - first:
+      213: 7199083447760997967
+    second: Blue Bird 2
+  - first:
+      213: -2846844543095463053
+    second: Blue Bird 3
+  - first:
+      213: 4744562095277443800
+    second: Teal Bird 1
+  - first:
+      213: -7291379897983797465
+    second: Teal Bird 2
+  - first:
+      213: 582099793608480257
+    second: Teal Bird 3
+  - first:
+      213: 3861635078268466286
+    second: Yellow Bird 3
+  - first:
+      213: -4684389566115345599
+    second: Yellow Bird 2
+  - first:
+      213: 8987931330390576546
+    second: Yellow Bird 1
+  - first:
+      213: -6194007083037005417
+    second: Cloud 1
+  - first:
+      213: -2206097799194515820
+    second: Cloud 2
+  - first:
+      213: 4205935973772797710
+    second: Cloud 3
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Landscape & Bird_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 480
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d95b362d8efb2540800000000000000
+      internalID: 4984357294800853458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Landscape & Bird_0: 4984357294800853458
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
