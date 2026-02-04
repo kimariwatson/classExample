@@ -7,6 +7,7 @@ public class ClassBirdScript : MonoBehaviour
     public SpriteRenderer sprite;
     public Rigidbody2D myRigidbody;
     public float flapping;
+    public classLogicScript logic;
 
     private InputSystem_Actions controls;
 
@@ -32,6 +33,7 @@ public class ClassBirdScript : MonoBehaviour
     private void Start()
     {
         myRigidbody.simulated = false;
+        logic = GameObject.FindGameObjectWithTag("Logic").GetComponent<classLogicScript>();
     }
     public void OnJump(InputAction.CallbackContext context)
     {
@@ -45,13 +47,15 @@ public class ClassBirdScript : MonoBehaviour
         Debug.Log("Button is pressed!");
         myRigidbody.linearVelocity = Vector2.up * flapping;
 
-        if (sprite.color == Color.blue)
+    }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if(collision.gameObject.layer!=3)
         {
-            sprite.color = Color.cyan;
-        }
-        else
-        {
-            sprite.color = Color.blue;
+            OnDisable();
+            logic.gameOver();
         }
     }
+
 }
